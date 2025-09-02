@@ -1,0 +1,23 @@
+// generated from rosidl_adapter/resource/srv.idl.em
+// with input from angle_interface/srv/Data.srv
+// generated code does not contain a copyright notice
+
+
+module angle_interface {
+  module srv {
+    struct Data_Request {
+      double i1;
+
+      double i2;
+
+      double i3;
+    };
+    struct Data_Response {
+      double ox;
+
+      double oy;
+
+      double oz;
+    };
+  };
+};

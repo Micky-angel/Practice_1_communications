@@ -1,0 +1,25 @@
+[0.317s] Invoking command in '/home/dylan/ros_programs/ex2_ws/src/doggy': PYTHONPATH=/home/dylan/ros_programs/ex2_ws/build/doggy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/doggy build --build-base /home/dylan/ros_programs/ex2_ws/build/doggy/build install --record /home/dylan/ros_programs/ex2_ws/build/doggy/install.log --single-version-externally-managed install_data
+[0.437s] running egg_info
+[0.437s] writing ../../build/doggy/doggy.egg-info/PKG-INFO
+[0.438s] writing dependency_links to ../../build/doggy/doggy.egg-info/dependency_links.txt
+[0.438s] writing entry points to ../../build/doggy/doggy.egg-info/entry_points.txt
+[0.438s] writing requirements to ../../build/doggy/doggy.egg-info/requires.txt
+[0.438s] writing top-level names to ../../build/doggy/doggy.egg-info/top_level.txt
+[0.439s] reading manifest file '../../build/doggy/doggy.egg-info/SOURCES.txt'
+[0.439s] writing manifest file '../../build/doggy/doggy.egg-info/SOURCES.txt'
+[0.439s] running build
+[0.439s] running build_py
+[0.439s] copying doggy/client.py -> /home/dylan/ros_programs/ex2_ws/build/doggy/build/lib/doggy
+[0.439s] running install
+[0.440s] running install_lib
+[0.440s] copying /home/dylan/ros_programs/ex2_ws/build/doggy/build/lib/doggy/client.py -> /home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages/doggy
+[0.440s] byte-compiling /home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages/doggy/client.py to client.cpython-310.pyc
+[0.440s] running install_data
+[0.440s] running install_egg_info
+[0.441s] removing '/home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages/doggy-0.0.0-py3.10.egg-info' (and everything under it)
+[0.442s] Copying ../../build/doggy/doggy.egg-info to /home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages/doggy-0.0.0-py3.10.egg-info
+[0.442s] running install_scripts
+[0.454s] Installing client script to /home/dylan/ros_programs/ex2_ws/install/doggy/lib/doggy
+[0.454s] Installing server script to /home/dylan/ros_programs/ex2_ws/install/doggy/lib/doggy
+[0.454s] writing list of installed files to '/home/dylan/ros_programs/ex2_ws/build/doggy/install.log'
+[0.468s] Invoked command in '/home/dylan/ros_programs/ex2_ws/src/doggy' returned '0': PYTHONPATH=/home/dylan/ros_programs/ex2_ws/build/doggy/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dylan/ros_programs/ex2_ws/install/doggy/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/doggy build --build-base /home/dylan/ros_programs/ex2_ws/build/doggy/build install --record /home/dylan/ros_programs/ex2_ws/build/doggy/install.log --single-version-externally-managed install_data

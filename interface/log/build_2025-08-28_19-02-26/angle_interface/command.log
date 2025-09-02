@@ -1,0 +1,6 @@
+Invoking command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dylan/ros_programs/ex2_ws/src/angle_interface -DCMAKE_INSTALL_PREFIX=/home/dylan/ros_programs/ex2_ws/install/angle_interface
+Invoked command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/dylan/ros_programs/ex2_ws/src/angle_interface -DCMAKE_INSTALL_PREFIX=/home/dylan/ros_programs/ex2_ws/install/angle_interface
+Invoking command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dylan/ros_programs/ex2_ws/build/angle_interface -- -j16 -l16
+Invoked command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/dylan/ros_programs/ex2_ws/build/angle_interface -- -j16 -l16
+Invoking command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dylan/ros_programs/ex2_ws/build/angle_interface
+Invoked command in '/home/dylan/ros_programs/ex2_ws/build/angle_interface' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/dylan/ros_programs/ex2_ws/build/angle_interface
