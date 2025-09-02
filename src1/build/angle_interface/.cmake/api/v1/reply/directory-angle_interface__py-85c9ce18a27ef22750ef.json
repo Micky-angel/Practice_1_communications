@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "angle_interface__py",
+		"source" : "/home/dylan/ros_programs/ex2_ws/src/build/angle_interface/angle_interface__py"
+	}
+}

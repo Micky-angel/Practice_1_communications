@@ -1,0 +1,233 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-55185ce9a594d272b753.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				},
+				{
+					"build" : "angle_interface__py",
+					"jsonFile" : "directory-angle_interface__py-85c9ce18a27ef22750ef.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/dylan/ros_programs/ex2_ws/src/build/angle_interface/angle_interface__py",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "angle_interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_angle_interface_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_angle_interface_egg-86583b6271c4f09c3947.json",
+					"name" : "ament_cmake_python_build_angle_interface_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_copy_angle_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_copy_angle_interface-e5c7c830d1a397736d05.json",
+					"name" : "ament_cmake_python_copy_angle_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface-265b5f15b598b8167e9d.json",
+					"name" : "angle_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__cpp-d13860b32717821a3c87.json",
+					"name" : "angle_interface__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "angle_interface__py::@7cbf1f50c63948d4129d",
+					"jsonFile" : "target-angle_interface__py-4c7c6430e7b4550241fc.json",
+					"name" : "angle_interface__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_generator_c-ba09f19c11f1d048fffe.json",
+					"name" : "angle_interface__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_generator_py::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_generator_py-3eb66fbfee1b520b4afd.json",
+					"name" : "angle_interface__rosidl_generator_py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_c-fdf4e992ef2516ef588f.json",
+					"name" : "angle_interface__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_c__pyext-ce0bda60dc684ebe5d4d.json",
+					"name" : "angle_interface__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_cpp-6cfd855b592d9618f138.json",
+					"name" : "angle_interface__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_fastrtps_c-67185795193960af1e4c.json",
+					"name" : "angle_interface__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_fastrtps_c__pyext-effc88bb3f4b2ae804ee.json",
+					"name" : "angle_interface__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_fastrtps_cpp-75d4d99b5af504719bde.json",
+					"name" : "angle_interface__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_introspection_c-c55750e1f0f8d3db0c8a.json",
+					"name" : "angle_interface__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_introspection_c__pyext-5f704a1d47de533a0248.json",
+					"name" : "angle_interface__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface__rosidl_typesupport_introspection_cpp-d05776d97d75a317c18c.json",
+					"name" : "angle_interface__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "angle_interface_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-angle_interface_uninstall-2ca93b2bf144165f38e6.json",
+					"name" : "angle_interface_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-4113abd6711cb5cdbf43.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dylan/ros_programs/ex2_ws/src/build/angle_interface",
+		"source" : "/home/dylan/ros_programs/ex2_ws/src/angle_interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

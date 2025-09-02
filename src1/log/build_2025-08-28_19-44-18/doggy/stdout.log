@@ -1,0 +1,20 @@
+running egg_info
+writing ../build/doggy/doggy.egg-info/PKG-INFO
+writing dependency_links to ../build/doggy/doggy.egg-info/dependency_links.txt
+writing entry points to ../build/doggy/doggy.egg-info/entry_points.txt
+writing requirements to ../build/doggy/doggy.egg-info/requires.txt
+writing top-level names to ../build/doggy/doggy.egg-info/top_level.txt
+reading manifest file '../build/doggy/doggy.egg-info/SOURCES.txt'
+writing manifest file '../build/doggy/doggy.egg-info/SOURCES.txt'
+running build
+running build_py
+running install
+running install_lib
+running install_data
+running install_egg_info
+removing '/home/dylan/ros_programs/ex2_ws/src/install/doggy/lib/python3.10/site-packages/doggy-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../build/doggy/doggy.egg-info to /home/dylan/ros_programs/ex2_ws/src/install/doggy/lib/python3.10/site-packages/doggy-0.0.0-py3.10.egg-info
+running install_scripts
+Installing client script to /home/dylan/ros_programs/ex2_ws/src/install/doggy/lib/doggy
+Installing server script to /home/dylan/ros_programs/ex2_ws/src/install/doggy/lib/doggy
+writing list of installed files to '/home/dylan/ros_programs/ex2_ws/src/build/doggy/install.log'
