@@ -1,6 +1,0 @@
-{
-  "package_name": "angle_interface",
-  "non_idl_tuples": [
-    "/home/dylan/ros_programs/ex2_ws/src/angle_interface:srv/Data.srv"
-  ]
-}

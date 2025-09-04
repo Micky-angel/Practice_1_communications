@@ -1,4 +1,0 @@
-[console_scripts]
-client = doggy.client:main
-server = doggy.server:main
-

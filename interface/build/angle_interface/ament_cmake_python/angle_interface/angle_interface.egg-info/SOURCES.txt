@@ -1,8 +1,0 @@
-setup.py
-angle_interface/__init__.py
-angle_interface.egg-info/PKG-INFO
-angle_interface.egg-info/SOURCES.txt
-angle_interface.egg-info/dependency_links.txt
-angle_interface.egg-info/top_level.txt
-angle_interface/srv/__init__.py
-angle_interface/srv/_data.py
